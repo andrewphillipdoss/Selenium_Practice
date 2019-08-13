@@ -3,9 +3,9 @@ WIKIPEDIA OF THE DAY
 Using Selenium to pull lists of prominent figures, search Wikipedia with a randomly selected element of that list, and send the text of the article as an email
 
 Dependencies:
-  Selenium Webdriver - pip install selenium
-  chromedriver - Download and add to PATH (https://sites.google.com/a/chromium.org/chromedriver/downloads)
-  email.mime - pip install mime
+  1) Selenium Webdriver - pip install selenium
+  2) chromedriver - Download and add to PATH (https://sites.google.com/a/chromium.org/chromedriver/downloads)
+  3) email.mime - pip install mime
 
 Usage:
   1) Navigate to Repo in Command line
